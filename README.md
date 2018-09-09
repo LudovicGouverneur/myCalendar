@@ -1,3 +1,13 @@
 # myCalendar
 
-llkjnkjn
+Sunday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Friday
+
+Saterday
